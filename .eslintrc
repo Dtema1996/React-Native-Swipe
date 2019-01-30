@@ -1,13 +1,6 @@
 {
-  "extends": [
-    "rallycoding",
-//    "eslint:recommended",
-    "plugin:react/recommended"
-  ],
+  "extends": "rallycoding",
   "rules": {
-    "arrow-body-style": 0
-  },
-  "globals": {
-    "fetch": false
+      "arrow-body-style": 0
   }
 }
